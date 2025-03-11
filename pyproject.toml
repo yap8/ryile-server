@@ -2,7 +2,7 @@
 name = "ryile-server"
 version = "0.1.0"
 description = ""
-authors = ["Bogdan Objilean <bodea0001@gmail.com>"]
+authors = ["Bogdan Objilean <bodea0001@gmail.com>", "Arseny Nebozhenko <nebozhenko.arseny@gmail.com"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
